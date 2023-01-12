@@ -40,5 +40,4 @@ import NewExpense from "./components/NewExpense/NewExpense";
     </div>
   );
 }
-
 export default App;
